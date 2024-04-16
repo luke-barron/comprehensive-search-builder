@@ -1,8 +1,8 @@
-Questions, suggestions, and support requests should be directed to:
-Luke Barron, MSLS candidate
-Health Sciences Library
-University of North Carolina at Chapel Hill
-luke.o.barron@gmail.com
+Questions, suggestions, and support requests should be directed to:  
+Luke Barron, MSLS candidate  
+Health Sciences Library  
+University of North Carolina at Chapel Hill  
+luke.o.barron@gmail.com  
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
