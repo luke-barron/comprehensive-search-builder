@@ -11,7 +11,7 @@ This work is licensed under a
 
 This repository contains two files implementing identical versions of the tool. Search builder v0.7 (Demo).xlsx contains a pre-built search strategy demonstrating several key features of the tool. It is recommended that users save a copy of Search builder v0.7 (Blank).xlsx to be used as the basis of new searches. Basic instructions and a changelog are provided in both files. 
 
-At present, the tool provides support for the following databases:
+At present, the tool provides support for:
 - PubMed (NLM)
 - MEDLINE (Ovid)
 - Embase (Elsevier)
