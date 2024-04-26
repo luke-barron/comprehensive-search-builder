@@ -9,7 +9,7 @@ This work is licensed under a
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 
-This repository contains two files implementing identical versions of the tool. Search builder v0.7 (Demo).xlsx contains a pre-built search strategy demonstrating several key features of the tool. It is recommended that users save a copy of Search builder v0.7 (Blank).xlsx to be used as the basis of new searches. Basic instructions and a changelog are provided in both files. 
+This repository contains two files implementing functionally identical versions of the tool. Search builder v1.0 (Demo).xlsx contains a pre-built search strategy demonstrating several key features of the tool. It is recommended that users save a copy of Search builder v1.0 (Blank).xlsx to be used as the basis of new searches. Basic instructions and a changelog are provided in both files. 
 
 At present, the tool provides support for:
 - PubMed (NLM)
