@@ -11,7 +11,7 @@ This work is licensed under a
 
 This repository contains two files implementing functionally identical versions of the tool. Search builder v1.0 (Demo).xlsx contains a pre-built search strategy demonstrating several key features of the tool. It is recommended that users save a copy of Search builder v1.0 (Blank).xlsx to be used as the basis of new searches. Basic instructions and a changelog are provided in both files. 
 
-At present, the tool provides support for:
+Potential use cases include search development for systematic reviews and tracking the research output of teams or departments via a list of names and/or affiliations. At present, the tool provides support for:
 - PubMed (NLM)
 - MEDLINE (Ovid)
 - Embase (Elsevier)
