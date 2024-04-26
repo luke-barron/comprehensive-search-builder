@@ -15,9 +15,11 @@ At present, the tool provides support for:
 - PubMed (NLM)
 - MEDLINE (Ovid)
 - Embase (Elsevier)
+- Scopus (Elsevier)
+- Web of Science (Clarivate)
 - CINAHL (EBSCOhost)
 - PsycInfo (EBSCOhost)
-- Scopus (Elsevier)
-- IEEE Xplore
 - ProQuest databases
 - CENTRAL (Cochrane)
+- IEEE Xplore
+
