@@ -9,7 +9,7 @@ This work is licensed under a
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 
-This repository contains two files implementing functionally identical versions of the tool. 'Comprehensive search builder v1.1 (Demo).xlsx' contains a pre-built search strategy demonstrating several key features of the tool. It is recommended that users save a copy of 'Comprehensive search builder v1.1 (Blank).xlsx' to be used as the basis of new searches. Basic instructions and a changelog are provided in both files. 
+This repository contains two files implementing functionally identical versions of the tool. 'Comprehensive search builder v1.1 (Demo).xlsx' contains a pre-built search strategy demonstrating several key features of the tool. It is recommended that users save a copy of 'Comprehensive search builder v1.1 (Blank).xlsx' to be used as the basis of new searches. A changelog and user guide are included in both .xlsx files. The latter is also available in .pdf format. 
 
 Potential use cases include search development for systematic reviews and tracking the research output of teams or departments via a list of names and/or affiliations. At present, the tool provides support for:
 - PubMed (NLM)
