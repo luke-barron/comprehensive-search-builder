@@ -1,5 +1,5 @@
 Questions, suggestions, and support requests should be directed to:  
-Luke Barron, MSLS
+Luke Barron, MSLS  
 Health Sciences Library  
 University of North Carolina at Chapel Hill  
 luke.o.barron@gmail.com  
