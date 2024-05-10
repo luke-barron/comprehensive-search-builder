@@ -21,5 +21,6 @@ Potential use cases include search development for systematic reviews and tracki
 - PsycInfo (EBSCOhost)
 - ProQuest databases
 - CENTRAL (Cochrane)
+- Dimensions (Digital Science)  
 - IEEE Xplore
 - ACM Digital Library
