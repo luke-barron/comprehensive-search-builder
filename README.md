@@ -9,21 +9,17 @@ This work is licensed under a
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 
-This repository contains two files implementing functionally identical versions of the tool. 'Comprehensive search builder v1.2 (Demo).xlsx' contains a pre-built search strategy demonstrating several key features of the tool. It is recommended that users save a copy of 'Comprehensive search builder v1.2 (Blank).xlsx' to be used as the basis of new searches. A changelog and user guide are included in both .xlsx files. The latter is also available in .pdf format. 
+This repository contains two files implementing functionally identical versions of the tool. 'Comprehensive search builder v1.3 (Demo).xlsx' contains a pre-built search strategy demonstrating several key features of the tool. It is recommended that users save a copy of 'Comprehensive search builder v1.3 (Blank).xlsx' to be used as the basis of new searches. A changelog and user guide are included in both .xlsx files. The latter is also available in .pdf format. 
 
 Potential use cases include search development for systematic reviews and tracking the research output of teams or departments via a list of names and/or affiliations. At present, the tool provides support for:
-- PubMed (NLM)
-- MEDLINE (Ovid)
-- Embase (Elsevier)
-- Scopus (Elsevier)
-- Web of Science (Clarivate)
-- CINAHL (EBSCOhost)
-- PsycInfo (EBSCOhost)
+- PubMed
+- Ovid MEDLINE
+- Embase
+- Scopus
+- Web of Science
 - ProQuest databases
-- CENTRAL (Cochrane)
-- Dimensions (Digital Science)  
+- EBSCOhost databases
+- Cochrane CENTRAL
+- Dimensions 
 - IEEE Xplore
 - ACM Digital Library
-- ERIC
-- Education Full Text
-- Social Work Abstracts
